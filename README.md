@@ -15,9 +15,9 @@ Hi, I'm Justin, a .NET Developer from Queensland, Australia 🇦🇺 with over 1
 
 Right now, I'm actively developing:
 
-- 🛠️ **Vanguard** – a Star Wars / Star Trek fan club site built in **ASP.NET Core MVC** + **MariaDB**
+- 🛠️ [**Vanguard**](https://github.com/JayEeSea/Vanguard) – a Star Wars / Star Trek fan club site built in **ASP.NET Core MVC** + **MariaDB**
+- 🎮 [**TapestryMUSH**](https://github.com/JayEeSea/TapestryMUSH) – a C#/.NET remake of a classic text-based game server
 - 🌐 Multiple websites using **WordPress** and modern web tooling
-- 🎮 **TapestryMUSH** – a C#/.NET remake of a classic text-based game server
 
 I’m aiming to transition into **Adversarial AI Testing** and have begun building a portfolio of projects in this space.
 
