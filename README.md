@@ -10,7 +10,7 @@ Hi, I'm Justin, a .NET Developer from Queensland, Australia 🇦🇺 with over 1
 
 - 🌌 Science fiction & fantasy
 - 📚 Military & political history
-- 🏎️ Formula 1, 🏏 cricket, ⛷️ alpine skiing, 🏒 ice hockey, ⚽ soccer
+- 🏎️ Formula 1, 🚲 Road cycling, 🏏 cricket, ⛷️ alpine skiing, 🏒 ice hockey, ⚽ soccer
 - 🔭 Astronomy
 
 Right now, I'm actively developing:
