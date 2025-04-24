@@ -17,6 +17,7 @@ Right now, I'm actively developing:
 
 - 🛠️ [**Vanguard**](https://github.com/JayEeSea/Vanguard) – a Star Wars / Star Trek fan club site built in **ASP.NET Core MVC** + **MariaDB**
 - 🎮 [**TapestryMUSH**](https://github.com/JayEeSea/TapestryMUSH) – a C#/.NET remake of a classic text-based game server
+- 🔌 [**Subspace**](https://github.com/JayEeSea/Subspace) - A C# Star Trek Episode API with ASP.NET Core MVC frontend
 - 🌐 Multiple websites using **WordPress** and modern web tooling
 
 I’m aiming to transition into **Adversarial AI Testing** and have begun building a portfolio of projects in this space.
