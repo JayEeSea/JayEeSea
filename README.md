@@ -15,7 +15,7 @@ Hi, I'm Justin, a .NET Developer from Queensland, Australia 🇦🇺 with over 1
 
 Right now, I'm actively developing:
 
-- 💥 [**TapestryMUSH**](https://github.com/JayEeSea/WW2) – a World War II database and API built in **ASP.NET Core** + **MariaDB**
+- 💥 [**Project Vanguard**](https://github.com/JayEeSea/WW2) – a World War II database and API built in **ASP.NET Core** + **MariaDB**
 - 🔌 [**Subspace**](https://github.com/JayEeSea/Subspace) - a C# Star Trek Episode API with ASP.NET Core MVC frontend
 - 🌐 Multiple websites using **WordPress** and modern web tooling
 
