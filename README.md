@@ -15,11 +15,11 @@ Hi, I'm Justin, a .NET Developer from Queensland, Australia 🇦🇺 with over 1
 
 Right now, I'm actively developing:
 
-- 💥 [**Project Vanguard**](https://github.com/JayEeSea/WW2) – a World War II database and API built in **ASP.NET Core** + **MariaDB**
 - 🔌 [**Subspace**](https://github.com/JayEeSea/Subspace) - a C# Star Trek Episode API with ASP.NET Core MVC frontend
+- 🖳 [**PennMUSH Softcode Tools**](https://github.com/MaruForge/PennMUSHSoftcodeTools) - A Visual Studio Code extension for PennMUSH development
 - 🌐 Multiple websites using **WordPress** and modern web tooling
 
-I’m aiming to transition into **Adversarial AI Testing** and have begun building a portfolio of projects in this space.
+I’m transitioning into **Adversarial AI Testing** and have begun building a portfolio of projects in this space.
 
 I’m looking to collaborate on open source ASP.NET Core and C# projects.
 
