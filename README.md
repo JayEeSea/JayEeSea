@@ -16,7 +16,7 @@ Hi, I'm Justin, a .NET Developer from Queensland, Australia 🇦🇺 with over 1
 
 Right now, I'm actively developing:
 
-- 🔌 [**LLM Adversarial Tests**]([https://github.com/JayEeSea/llm-adversarial-tests) - a collection of structured adversarial test cases and prompt evaluations targeting LLMs, focused on safety, policy, and strategic misuse scenarios.
+- 🔌 [**LLM Adversarial Tests**](https://github.com/JayEeSea/llm-adversarial-tests) - a collection of structured adversarial test cases and prompt evaluations targeting LLMs, focused on safety, policy, and strategic misuse scenarios.
 - 🌐 Multiple websites using **WordPress** and modern web tooling
 
 I’m looking to collaborate on open source ASP.NET Core and C# projects.
