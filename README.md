@@ -10,16 +10,14 @@ Hi, I'm Justin, a .NET Developer from Queensland, Australia 🇦🇺 with over 1
 
 - 🌌 Science fiction & fantasy
 - 📚 Military & political history
+- 🤖 AI Ethics, safety and adversarial testing
 - 🏎️ Formula 1, 🚲 road cycling, 🏏 cricket, ⛷️ alpine skiing, 🏒 ice hockey, ⚽ soccer
 - 🔭 Astronomy
 
 Right now, I'm actively developing:
 
-- 🔌 [**Subspace**](https://github.com/JayEeSea/Subspace) - a C# Star Trek Episode API with ASP.NET Core MVC frontend
-- 🖳 [**PennMUSH Softcode Tools**](https://github.com/MaruForge/PennMUSHSoftcodeTools) - A Visual Studio Code extension for PennMUSH development
+- 🔌 [**LLM Adversarial Tests**]([https://github.com/JayEeSea/llm-adversarial-tests) - a collection of structured adversarial test cases and prompt evaluations targeting LLMs, focused on safety, policy, and strategic misuse scenarios.
 - 🌐 Multiple websites using **WordPress** and modern web tooling
-
-I’m transitioning into **Adversarial AI Testing** and have begun building a portfolio of projects in this space.
 
 I’m looking to collaborate on open source ASP.NET Core and C# projects.
 
