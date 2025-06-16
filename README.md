@@ -6,7 +6,7 @@
 <!-- About Me -->
 ### 👨‍💻 About Me
 
-Hi, I'm Justin, a .NET Developer from Queensland, Australia 🇦🇺 with over 15 years of experience in IT. I manage websites and online platforms professionally, and I’m passionate about:
+Hi, I'm Justin, a .NET Developer from Queensland, Australia 🇦🇺 with over 17 years of experience in IT. I manage websites and online platforms professionally, and I’m passionate about:
 
 - 🌌 Science fiction & fantasy
 - 📚 Military & political history
